@@ -1,7 +1,7 @@
 # portfolio-prep
 
 1. A two or three word catchy title. Do NOT use cliches like “programming ninja” or “coding rockstar”.
-Work in Progress
+Dilligent Developer
 
 2. A personal headline, like you have atop your LinkedIn page. What do you want your career to be about?
 Software Developer, eager to build!
